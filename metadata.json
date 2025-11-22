@@ -1,5 +1,5 @@
 {
-  "name": "LinguaFlow - Scenario Based English Learning",
-  "description": "A comprehensive English learning application focusing on thematic scenarios. Features vocabulary drills (listen, speak, write), sentence construction with AI feedback, and article comprehension.",
+  "name": "VocabMaster",
+  "description": "An immersive vocabulary learning application focusing on writing, listening, and typing skills with a flashcard interface.",
   "requestFramePermissions": []
 }
